@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="18">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"Slots"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" Activated="0" RealAddress="00000000"/>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>7</ID>
+          <Description>"Slot 1-1"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>3</ID>
+              <Description>"[Type]"</Description>
+              <LastState Value="??" Activated="0" RealAddress="00000000"/>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>bhd.exe+97c9c0</Address>
+              <Offsets>
+                <Offset>38</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>5</ID>
+              <Description>"[Value]"</Description>
+              <LastState Value="??" Activated="0" RealAddress="00000000"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>bhd.exe+97c9c0</Address>
+              <Offsets>
+                <Offset>3C</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>8</ID>
+          <Description>"Slot 1-2"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>6</ID>
+              <Description>"[Type]"</Description>
+              <LastState Value="??" Activated="0" RealAddress="00000000"/>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>bhd.exe+97c9c0</Address>
+              <Offsets>
+                <Offset>40</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>9</ID>
+              <Description>"[Value]"</Description>
+              <LastState Value="??" Activated="0" RealAddress="00000000"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>bhd.exe+97c9c0</Address>
+              <Offsets>
+                <Offset>44</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>10</ID>
+          <Description>"Slot 2-1"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>11</ID>
+              <Description>"[Type]"</Description>
+              <LastState Value="??" Activated="0" RealAddress="00000000"/>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>bhd.exe+97c9c0</Address>
+              <Offsets>
+                <Offset>48</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>12</ID>
+              <Description>"[Value]"</Description>
+              <LastState Value="??" Activated="0" RealAddress="00000000"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>bhd.exe+97c9c0</Address>
+              <Offsets>
+                <Offset>4C</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>13</ID>
+          <Description>"Slot 2-2"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>14</ID>
+              <Description>"[Type]"</Description>
+              <LastState Value="??" Activated="0" RealAddress="00000000"/>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>bhd.exe+97c9c0</Address>
+              <Offsets>
+                <Offset>50</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>15</ID>
+              <Description>"[Value]"</Description>
+              <LastState Value="??" Activated="0" RealAddress="00000000"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>bhd.exe+97c9c0</Address>
+              <Offsets>
+                <Offset>54</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>16</ID>
+          <Description>"Slot 3-1"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>17</ID>
+              <Description>"[Type]"</Description>
+              <LastState Value="??" Activated="0" RealAddress="00000000"/>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>bhd.exe+97c9c0</Address>
+              <Offsets>
+                <Offset>58</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>18</ID>
+              <Description>"[Value]"</Description>
+              <LastState Value="??" Activated="0" RealAddress="00000000"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>bhd.exe+97c9c0</Address>
+              <Offsets>
+                <Offset>5C</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>19</ID>
+          <Description>"Slot 3-2"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>20</ID>
+              <Description>"[Type]"</Description>
+              <LastState Value="??" Activated="0" RealAddress="00000000"/>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>bhd.exe+97c9c0</Address>
+              <Offsets>
+                <Offset>60</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>21</ID>
+              <Description>"[Value]"</Description>
+              <LastState Value="??" Activated="0" RealAddress="00000000"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>bhd.exe+97c9c0</Address>
+              <Offsets>
+                <Offset>64</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>22</ID>
+          <Description>"Slot 4-1"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>23</ID>
+              <Description>"[Type]"</Description>
+              <LastState Value="??" Activated="0" RealAddress="00000000"/>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>bhd.exe+97c9c0</Address>
+              <Offsets>
+                <Offset>68</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>24</ID>
+              <Description>"[Value]"</Description>
+              <LastState Value="??" Activated="0" RealAddress="00000000"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>bhd.exe+97c9c0</Address>
+              <Offsets>
+                <Offset>6C</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>25</ID>
+          <Description>"Slot 4-2"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>26</ID>
+              <Description>"[Type]"</Description>
+              <LastState Value="??" Activated="0" RealAddress="00000000"/>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>bhd.exe+97c9c0</Address>
+              <Offsets>
+                <Offset>70</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>27</ID>
+              <Description>"[Value]"</Description>
+              <LastState Value="??" Activated="0" RealAddress="00000000"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>bhd.exe+97c9c0</Address>
+              <Offsets>
+                <Offset>74</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>47</ID>
+      <Description>"Health"</Description>
+      <LastState Value="??" Activated="0" RealAddress="00000000"/>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"bhd.exe"+009E41BC</Address>
+      <Offsets>
+        <Offset>13BC</Offset>
+        <Offset>150</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>51</ID>
+      <Description>"Equiped Ammo"</Description>
+      <LastState Value="??" Activated="0" RealAddress="00000000"/>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"bhd.exe"+009E41BC</Address>
+      <Offsets>
+        <Offset>FFC</Offset>
+        <Offset>1C4</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+  <Comments>Health:
+Jill (MAX): 960
+Chris (MAX): 1400
+items types (HEX):
+01: Survival knife
+02: Survival knife
+03: Handgun
+04: Self defense gun
+05: Handgun
+06: Shotgun
+07: Grenade Launcher
+08: Grenade Launcher
+09: Grenade Launcher
+0A: Rocket Launcher
+0B: Magnum Revolver
+0C: Flamethrower
+0D: Assault Shotgun
+0E: Rocket Launcher
+0F: Barry's 44 Magnum
+10: Grenade Shells
+11: Handgun Magazine
+12: Shotgun Shells
+13: Acid Shells
+14: Incendiary Shells
+15: Golden Arrow
+16: Book of Curse
+17: Coin
+18: Collar
+19: Magnum rounds
+1A: Broach
+1B: Fuel Canteen
+1C: Arrowhead
+1D: Imitaton of a Key
+1E: Gallery Key|Residence Key
+1F: Fuel Supply Capsule &lt;!-- Closed Capsule --&gt;
+20: Missing Music
+21: First Aid Spray
+22: Green Herb
+23: Red Herb
+24: Blue Herb
+25: Mixed Herbs &lt;!-- "Green Herb" + "Green Herb" --&gt;
+26: Mixed Herbs &lt;!-- "Green Herb" + "Green Herb" + "Green Herb" --&gt;
+27: Mixed Herbs &lt;!-- "Green Herb" + "Red Herb" --&gt;
+28: Mixed Herbs &lt;!-- "Green Herb" + "Red Herb" + "Blue Herb" --&gt;
+29: Mixed Herbs &lt;!-- "Green Herb" + "Blue Herb" --&gt;
+2A: Mixed Herbs &lt;!-- "Green Herb" + "Green Herb" + "Blue Herb" --&gt;
+2B: Lock Pick
+2C: Old Key
+2D: Sword Key|Mansion Key
+2E: Armor Key|Mansion Key
+2F: Shield Key|Mansion Key
+30: Helmet Key|Mansion Key
+31: Key for Room 001|Residence Key
+32: Key for Room 003|Residence Key
+33: Medal of Eagle
+34: Medal of Wolf
+35: Stone &amp; Metal Object
+36: Key for the Power Area|Laboratory Key
+37: Master Key|Laboratory Key
+38: Star Crest
+39: Wind Crest
+3A: Sun Crest
+3B: Moon Crest
+3C: Square Crank|Crank
+3D: Hexagon Crank|Crank
+3E: Closet Key
+3F: Emblem Key
+40: Stone Ring
+41: Metal Object
+42: Survival knife
+43: Battery
+44: Ink Ribbon
+45: Emblem
+46: Gold Emblem
+47: Moonlight Sonata
+48: Red Gemstone
+49: Blue Gemstone
+4A: Yellow Gemstone
+4B: Broken Shotgun
+4C: Herbicide|Chemical
+4D: Lighter
+4E: Serum
+4F: Transceiver
+50: Empty Bottle
+51: Water
+52: UMB No.3
+53: NP-004
+54: Yellow-6
+55: UMB No.7
+56: UMB No.10
+57: VP-017
+58: V-JOLT
+&lt;!-- Item 59 (Item 089/129) --&gt;
+5A: Unprinted Book|Red Book
+5B: Last Book Vol.1
+5C: Last Book Vol.2
+5D: MO Disk
+5E: MO Disk
+5F: MO Disk
+60: Dog Whistle
+61: Fuse Unit
+62: Capsual &lt;!-- Open Capsule --&gt;
+63: Jewelry Box
+64: Insecticide Spray
+65: First Aid Box &lt;!-- First Aid Spray --&gt;
+66: Jewelry Box
+67: Jewelry Box
+68: First Aid Box &lt;!-- Green Herb --&gt;
+69: First Aid Box &lt;!-- Blue Herb --&gt;
+6A: Signal Rockets
+6B: Broken Flamethrower
+6C: Wooden Mount
+6D: Slide Filter
+6E: Control Room Key
+6F: Fuel Supply Capsule &lt;!-- Open Capsule --&gt;
+70: Dagger
+71: Flash Grenade
+72: Stun Gun
+73: Bee Specimen
+74: Lure w/out hook|Lure of a bee
+75: Fishhook
+76: Lure of a bee
+77: X-Ray of CLARK|X-Ray
+78: X-Ray of GAIL|X-Ray
+79: Battery Pack
+7A: Shaft
+7B: Cylinder
+7C: Cylinder Shaft
+7D: Mask w/out all|Death Mask
+7E: Mask w/out eyes|Death Mask
+7F: Mask w/out nose|Death Mask
+80: Mask w-out mouth|Death Mask
+81: Music, mid-pages|Musical Score
+82: Map
+</Comments>
+</CheatTable>
